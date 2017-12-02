@@ -5,6 +5,6 @@ the **Tablero.java** code
 
 
 ``` bash
-javac Tablero.java
-java Tablero
+$ javac Tablero.java
+$ java Tablero
 ```
